@@ -1,3 +1,4 @@
+const API_BASE_URL = 'https://projimplantar-production-8434.up.railway.app'
 // API_BASE_URL vem de config.js (carregado antes nesta página)
 
 document.addEventListener('DOMContentLoaded', () => {
