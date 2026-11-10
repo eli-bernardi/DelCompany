@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-const API_BASE_URL = 'https://projimplantar-production-8434.up.railway.app'
-// API_BASE_URL vem de config.js (carregado antes nesta página)
-=======
->>>>>>> 901aa43 (Atualizando o link da API)
-
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('contato-form')
     if (!form) return
